@@ -1,8 +1,5 @@
-paping.go
-.mod
-.sum
-.env
-paping.go
+*.sum
+*.env
 *.go
 *.mod
 *.exe
