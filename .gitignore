@@ -3,3 +3,6 @@ paping.go
 .sum
 .env
 paping.go
+*.go
+*.mod
+*.exe
