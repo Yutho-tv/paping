@@ -1,7 +1,9 @@
 
-# Paping
+# Paping [Depracted]
 
 Cross-platform TCP port testing, emulating the functionality of ping (port ping)
+
+This project will no longer receive updates.
 
 
 ## Appendix
